@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../sass/main.scss"
-    ],
-    "names": [],
-    "file": "main.css"
-}
+{"version":3,"sources":["main.css","../sass/utils/_reset.scss","../sass/utils/_project-settings.scss","../sass/utils/_variables.scss"],"names":[],"mappings":"AAAA,gBAAgB;ACAhB;;;EAGI,2BAAA;UAAA,mBAAA;ADEJ;;ACCA;;;;;;EAMI,SAAA;ADEJ;;ACCA;EACI,cAAA;EACA,eAAA;EACA,YAAA;ADEJ;;ACCA;EACI,8BAAA;UAAA,sBAAA;ADEJ;;ACCA,kCAAA;AACA;EACI,SAAA;EACA,UAAA;EAEA,gBAAA;ADCJ;;ACEA;EACI,qBAAA;ADCJ;;ACEA,qBAAA;AACA;EACI,kBAAA;EACA,UAAA;EACA,WAAA;EACA,YAAA;EACA,SAAA;EACA,UAAA;EACA,mBAAA;EACA,8BAAA;UAAA,sBAAA;EACA,mBAAA;EACA,gBAAA;ADCJ;;AEjDA;EACI,aAAA;EACA,mBAAA;EACA,kBAAA;EACA,iBAAA;EACA,kBAAA;AFoDJ;;AEjDA;EACI,gCAAA;EACA,8CAAA;EACA,+BAAA;AFoDJ;;AG/DA;EACI,gCAAA;EACA,kCAAA;EACA,iCAAA;EACA,6BAAA;EACA,4BAAA;EACA,uBAAA;EACA,kCAAA;EACA,2BAAA;EACA,kBAAA;EACA,qBAAA;EACA,+CAAA;EACA,oBAAA;AHkEJ","file":"main.css"}

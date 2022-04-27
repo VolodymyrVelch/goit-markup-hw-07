@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../sass/main.scss"
-    ],
-    "names": [],
-    "file": "main.min.css"
-}
+{"version":3,"sources":["../sass/utils/_reset.scss","../sass/utils/_project-settings.scss","../sass/utils/_variables.scss"],"names":[],"mappings":"AAAA,qBAGI,0BAAA,CAAA,kBAAA,CAGJ,iBAMI,QAAA,CAGJ,IACI,aAAA,CACA,cAAA,CACA,WAAA,CAGJ,KACI,6BAAA,CAAA,qBAAA,CAIJ,GACI,QAAA,CACA,SAAA,CAEA,eAAA,CAGJ,EACI,oBAAA,CAIJ,iBACI,iBAAA,CACA,SAAA,CACA,UAAA,CACA,WAAA,CACA,QAAA,CACA,SAAA,CACA,kBAAA,CACA,6BAAA,CAAA,qBAAA,CACA,kBAAA,CACA,eAAA,CChDJ,WACI,YAAA,CACA,kBAAA,CACA,iBAAA,CACA,gBAAA,CACA,iBAAA,CAGJ,KACI,+BAAA,CACA,6CAAA,CACA,6BAAA,CCXJ,MACI,gCAAA,CACA,kCAAA,CACA,iCAAA,CACA,6BAAA,CACA,4BAAA,CACA,uBAAA,CACA,kCAAA,CACA,2BAAA,CACA,kBAAA,CACA,qBAAA,CACA,+CAAA,CACA,oBAAA","file":"main.min.css"}
