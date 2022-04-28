@@ -343,7 +343,7 @@ body {
   padding-bottom: 94px;
 }
 
-.section-title {
+.section__title {
   margin: 0;
   color: var(--primary-text-color);
   font-weight: bold;
@@ -417,12 +417,7 @@ body {
   color: var(--accent-color);
 }
 
-.contact__icon--envelop {
-  margin-right: 10px;
-  fill: currentColor;
-}
-
-.contact__icon--tel {
+.contact__icon {
   margin-right: 10px;
   fill: currentColor;
 }
@@ -624,7 +619,7 @@ input::placeholder {
   margin-right: 0px;
 }
 
-.advantage__icon {
+.icon__box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -647,11 +642,11 @@ input::placeholder {
   letter-spacing: 0.03em;
 }
 
-.example {
+.section--no-pading-top {
   padding-top: 0;
 }
 
-.example__list {
+.example {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -693,7 +688,7 @@ input::placeholder {
   color: var(--third-text-color);
 }
 
-.team-section {
+.section--other-background {
   background-color: var(--second-background-color);
 }
 
@@ -726,7 +721,7 @@ input::placeholder {
   padding: 30px 0;
 }
 
-.team__mate {
+.team__title {
   color: var(--primary-text-color);
   font-weight: 500;
   font-size: 16px;
@@ -735,7 +730,7 @@ input::placeholder {
   text-align: center;
 }
 
-.team__position {
+.team__text {
   margin-top: 10px;
   margin-bottom: 16px;
   color: var(--second-text-color);
@@ -815,7 +810,7 @@ input::placeholder {
   margin-top: 50px;
 }
 
-.clients__icon {
+.clients__link {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -833,7 +828,7 @@ input::placeholder {
   -webkit-transition: background-color 250ms var(--timing-function), fill 250ms var(--timing-function);
   transition: background-color 250ms var(--timing-function), fill 250ms var(--timing-function);
 }
-.clients__icon:hover, .clients__icon:focus {
+.clients__link:hover, .clients__link:focus {
   fill: var(--accent-color);
   border: 1px solid var(--accent-color);
 }
